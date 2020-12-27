@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>pic/logo.PNG</file>
+        <file>pic/prifile_logo.png</file>
+        <file>pic/welcome.jpg</file>
+    </qresource>
+</RCC>
